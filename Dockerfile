@@ -23,4 +23,3 @@ COPY . .
 # Run Flask app
 CMD ["python", "app.py"]
 
-
